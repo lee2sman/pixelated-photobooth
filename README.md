@@ -13,6 +13,10 @@ Current software versions include:
 
 Try increasing pixel size of the pixelatedphotobooth to get some beautiful abstract video art.
 
+Future camera ideas include a description camera, a camera that pulls a random image from the internet
+of the same scene/type of image you're trying to shoot, the selfie textual cam, a music image processer,
+and more.
+
 Take a screenshot by pressing the spacebar.
 
 To do: 
@@ -20,3 +24,4 @@ To do:
 2. combine into a single program
 3. create a UI
 4. build into a physical camera and/or phone app possibly w/ oF on RPi
+
