@@ -4,9 +4,12 @@ pixelated-photobooth
 An extremely simple pixelation photobooth (aka camera mirror) program written in Processing 2.
 
 May be useful as a basis for other camera software.
-Current versions include a pixelated "8bit" cam and a black and white camera that
-attempts to emulate a Gameboy Camera style image.
-New camera emulates TV monitor image with moving snow.
+
+Current software versions include:
+1. a pixelated "8bit" cam
+2. Gameboy Camera style black and white cam
+3. TV monitor image emulator cam with moving snow
+4. monochrome cam that samples the scene it sees and picks a color to represent it
 
 Try increasing pixel size of the pixelatedphotobooth to get some beautiful abstract video art.
 
@@ -16,4 +19,4 @@ To do:
 1. add more camera emulators and cam programs
 2. combine into a single program
 3. create a UI
-4. build into a physical camera and/or phone app 
+4. build into a physical camera and/or phone app possibly w/ oF on RPi
