@@ -10,6 +10,8 @@ Current software versions include:
 2. Gameboy Camera style black and white cam
 3. TV monitor image emulator cam with moving snow
 4. monochrome cam that samples the scene it sees and picks a color to represent it
+5. Chuck Close style camera
+6. Paint Cam creates sloppy painterly images
 
 Try increasing pixel size of the pixelatedphotobooth to get some beautiful abstract video art.
 
