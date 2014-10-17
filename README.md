@@ -25,6 +25,7 @@ Future camera ideas
 * a camera that pulls a random image from the internet of the same scene/type of image you're trying to shoot
 * add the selfie textual cam
 * a music image processer
+* a blackbar or pixelated face cam
 * go hogwild and build my own polaroid style print function w/ a zink printer or thermal printer
 and more. suggestions welcomed.
 
