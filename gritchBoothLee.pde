@@ -107,6 +107,7 @@ glitchP5.glitch(0, 0, 800, 1000, 120-numbersInt*5+10, 2-numbersInt*5+10, 50-numb
 
 //capture image
 void keyPressed(){
-  //save(frameCount+".png");
-save("screenshot-"+(frameCount+".png"));
-  } 
+  if (key == ' ') {
+      saveFrame("screenshot-###.png");
+    }
+}
