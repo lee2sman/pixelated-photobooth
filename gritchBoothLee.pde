@@ -29,14 +29,14 @@ FFT fft;
 
 
 void setup() {
-size(400,500, OPENGL);
+size(800,600, OPENGL);
 // instatiate a Minim object
 minim = new Minim(this);
 lineIn = minim.getLineIn(Minim.STEREO, 512);
 glitchP5 = new GlitchP5(this); // initiate the glitchP5 instance;
 
 // video 
-video = new Capture(this,400,500,0);
+video = new Capture(this,800,600,0);
 video.updatePixels();
 
 //serial (button) remove if not using button to print image.
