@@ -12,6 +12,7 @@ Current software cameras
 5.  Chuck Klose style camera
 6.  Paint Cam creates sloppy painterly images
 7.  a Matrix Style (green ascii text on black background) camera
+8.  a Glitch camera (modified. original by Geraldine Juarez)
 
 Take a screenshot by pressing the spacebar. Some programs allow you to change contrast with arrow up/dwn keys.
 
